@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\albym\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.linting.pylamaEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.pep8Enabled": false
+}
