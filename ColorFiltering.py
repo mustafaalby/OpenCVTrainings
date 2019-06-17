@@ -1,7 +1,10 @@
 import cv2
 import numpy as np
 
+
 def main():
+    
+
     
     img=cv2.imread('testImage.jpg')
     img=cv2.resize(img,(400,300))

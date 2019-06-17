@@ -2,6 +2,7 @@
 import cv2
 import numpy
 import matplotlib.pyplot as plt
+
 #%%
 img=cv2.imread("testImage.jpg",cv2.IMREAD_GRAYSCALE)
 #Read the image, pass it with gray scale
@@ -10,6 +11,7 @@ cv2.imshow('title', img)
 cv2.waitKey(0)
 #prevents closing instanly
 cv2.destroyAllWindows()
+
 
 
 #%%
